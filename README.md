@@ -6,7 +6,19 @@
 
 ## Introduction
 
-<p>안녕하세요! 현재는 보안 솔루션 회사의 엔지니어로 재직중이고 네트워크를 추가로 공부하고 있습니다.</p>
+<p>안녕하세요! 현재는 보안 솔루션 회사의 엔지니어로 재직중이고 
+
+
+
+
+
+
+
+
+
+
+
+네트워크와 리눅스 관련 업무를 하고 있습니다.</p>
 
 <p>프론트와 백엔드 모두 공부중에 있습니다. </p>
 
@@ -16,10 +28,16 @@
 
 ## Skill
 
-<img src="https://img.shields.io/badge/?style=flat&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
+
+
+
+
+
+
+
+
+
+   <img src="https://img.shields.io/badge/**React**-61DAFB?style=flat&logo=React&logoColor=white"/>   <img src="https://img.shields.io/badge/**React**-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 </div>
-
-
-
-s
