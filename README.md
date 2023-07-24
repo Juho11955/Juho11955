@@ -30,7 +30,8 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <br><br>
-## Use OS<br>
+
+## OS<br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/centos-262577?style=flat&logo=centos&logoColor=white"/>
 <img src="https://img.shields.io/badge/macos-000000?style=flat&logo=macos&logoColor=white"/>
