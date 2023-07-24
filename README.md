@@ -40,5 +40,6 @@
 ## Study<br>
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/graphql-E10098?style=flat&logo=graphql&logoColor=white"/>
 
 </div>
